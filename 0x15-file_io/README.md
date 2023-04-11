@@ -1,1 +1,1 @@
-C - file I/O
+C - file descriptors and permissions
